@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goruu007&label=Profile%20views&color=0e75b6&style=flat" alt="goruu007" /> </p>
 
-- 🌱 I’m currently learning Artificial Intelligence And Robotics **Arti**
+- 🌱 I’m currently learning Artificial Intelligence And Robotics 
 
 - 📫 How to reach me **gauravraikwar007@gmail.com**
 
