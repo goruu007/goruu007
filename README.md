@@ -64,11 +64,6 @@
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: (Add your link)
-- 📧 Email: (Add your email)
-- 🌐 Portfolio: (Optional)
-
 ---
 
 ## ⚡ Fun Fact
