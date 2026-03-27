@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
-<h3 align="center">AI/ML Engineer | Remote Sensing | ISRO Apprentice 🚀</h3>
+<h3 align="center">AI/ML Engineer | Remote Sensing | SAC, ISRO Trainee 🚀</h3>
 
 ---
 
